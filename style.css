@@ -50,9 +50,9 @@
 }
 
 .secundario__imagem {
-    width: 200px;
-    height: 200px;
-    padding: 0 24px;
+    width: 400px;
+    height: 400px;
+    padding: 0 200px;
     transition: .4s all ease-in-out;
 }
 
