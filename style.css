@@ -7,7 +7,7 @@
 .menu-h ul{
     width: 100%;
     height: 80px;
-    background-color: #ffbcf4;
+    background-color: #8c9bec;
     font-family: Arial;
     position: fixed;
     padding: 0 32%;
@@ -22,7 +22,7 @@
 }
 
 .menu-h ul li a{
-    color: #FFFFFF;
+    color: #fffffb;
     padding: 40px;
     display: inline-block;
     text-decoration: none;
