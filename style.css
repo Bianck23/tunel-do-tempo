@@ -10,7 +10,7 @@ body{
 .cabeçario-1{
     
     background-color: #7A8194;
-    color: #FFFCFA;
+    color: #FBF3f0;
     
 }
 .cabeçario-pricipal{
@@ -33,7 +33,7 @@ body{
 
 }
 .vindas{
-    background-color: #ffeddf;
+    background-color: #FBF3f0;
     padding: 52px 0;
     font-size: 27px;
     display: flex;
