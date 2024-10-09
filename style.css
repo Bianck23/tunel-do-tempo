@@ -32,9 +32,29 @@ body{
     display: inline-block
 
 }
-.lala-lu{
+.vindas{
+    background-color: #ffeddf;
+    padding: 52px 0;
+    font-size: 27px;
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
-  
+.vindas-div{
+    width: 60%;
+}
+.titulolagal{
+    padding: 24px 0;
+}
+
+.lala-lu{
+    width: 78%;
+}
+.começo{
+    background-color: #ffeddf;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
