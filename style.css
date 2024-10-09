@@ -34,4 +34,8 @@ body{
 }
 .lala-lu{
     width: 78%;
+    background-color: #ffeddf;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
