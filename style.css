@@ -83,7 +83,7 @@ body{
 :root {
     --cor-de-fundo: #fffefe;
     --verde: #f0d0fd;
-    --branco: #FFFFFF;
+    --branco: #000000;
     --botao-ativo: #b330ce;
     --botao-inativo: rgba(58, 55, 94, 0.5);
     --texto-fundo: rgb(96, 9, 104);
